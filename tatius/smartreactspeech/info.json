@@ -1,0 +1,9 @@
+{
+    "name" : "SmartReact",
+    "author" : ["FlapJack"],
+    "short" : "Create automatic reactions when trigger words are typed in chat",
+    "description" : "Create automatic reactions when trigger words are typed in chat.\n\nDependencies: None",
+    "install_msg" : "Thanks for installing SmartReact.",
+    "tags" : ["reaction", "smart", "react"],
+    "permissions" : ["add_reactions"]
+}

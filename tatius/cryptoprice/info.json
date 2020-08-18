@@ -1,0 +1,11 @@
+{
+    "name" : "CryptoPrice",
+    "author" : ["FlapJack"],
+    "short" : "Fetches cryptocurrency price data",
+    "description" : "Fetches cryptocurrency price data.\n\nDependencies:\nBeautifulSoup4 :: https://www.crummy.com/software/BeautifulSoup/bs4/doc/\nTabulate :: https://github.com/gregbanks/python-tabulate",
+    "install_msg" : "Thanks for installing CryptoPrice.",
+    "requirements" : ["bs4", "tabulate"],
+    "tags" : ["crypto", "currency", "price", "bitcoin"],
+    "disabled" : true,
+    "hidden" : true
+}
